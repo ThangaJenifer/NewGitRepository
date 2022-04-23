@@ -1,5 +1,5 @@
-mylogs.log
-/mylogs.log
-*.log
-*.cpp
-ignore/
+mylogs.log  #will ignore all files with name my mylogs.log in whole git hub project local repositry
+/mylogs.log #will ignore only mylogs.log inside your current directory
+*.log   	# will ignore all the log files inside git project
+*.cpp  	#will ignore all the cpp extension files
+ignore/ 	#will ignore directory name ignore
